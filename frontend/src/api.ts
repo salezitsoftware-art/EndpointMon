@@ -2,7 +2,7 @@ import axios from "axios";
 
 import type { AlertItem, Machine, MachineAnalysisRecord, MachineAnalysisResult, MachineDetail, TelemetryPoint } from "./types";
 
-const baseURL = import.meta.env.VITE_API_BASE_URL ?? (import.meta.env.DEV ? "http://127.0.0.1:3000/api" : "/api");
+const baseURL = import.meta.env.VITE_API_BASE_URL ?? (import.meta.env.DEV ? "http://127.0.0.1:8000/api" : "/api");
 const apiKey = import.meta.env.VITE_API_KEY ?? "replace_me";
 
 const client = axios.create({
