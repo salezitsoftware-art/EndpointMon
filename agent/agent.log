@@ -1,0 +1,827 @@
+2026-05-29 21:34:22 [INFO] Telemetry collection started
+2026-05-29 21:34:31 [INFO] Telemetry sent successfully. Response id: 2
+2026-05-30 10:27:00 [INFO] Telemetry collection started
+2026-05-30 10:27:13 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 10:27:17 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 10:29:00 [INFO] Telemetry collection started
+2026-05-30 10:29:09 [INFO] Telemetry sent successfully. Response id: 6
+2026-05-30 10:54:36 [INFO] Telemetry collection started
+2026-05-30 10:54:46 [INFO] Telemetry sent successfully. Response id: 7
+2026-05-30 11:05:54 [INFO] Telemetry collection started
+2026-05-30 11:06:03 [INFO] Telemetry sent successfully. Response id: 8
+2026-05-30 11:06:52 [INFO] Telemetry collection started
+2026-05-30 11:06:57 [INFO] Telemetry sent successfully. Response id: 9
+2026-05-30 11:07:54 [INFO] Telemetry collection started
+2026-05-30 11:08:00 [INFO] Telemetry sent successfully. Response id: 10
+2026-05-30 11:08:55 [INFO] Telemetry collection started
+2026-05-30 11:09:01 [INFO] Telemetry sent successfully. Response id: 11
+2026-05-30 11:09:54 [INFO] Telemetry collection started
+2026-05-30 11:10:00 [INFO] Telemetry sent successfully. Response id: 12
+2026-05-30 11:10:55 [INFO] Telemetry collection started
+2026-05-30 11:11:00 [INFO] Telemetry sent successfully. Response id: 13
+2026-05-30 11:11:54 [INFO] Telemetry collection started
+2026-05-30 11:12:00 [INFO] Telemetry sent successfully. Response id: 14
+2026-05-30 11:12:54 [INFO] Telemetry collection started
+2026-05-30 11:13:00 [INFO] Telemetry sent successfully. Response id: 15
+2026-05-30 11:13:55 [INFO] Telemetry collection started
+2026-05-30 11:14:00 [INFO] Telemetry sent successfully. Response id: 16
+2026-05-30 11:14:58 [INFO] Telemetry collection started
+2026-05-30 11:15:19 [INFO] Telemetry sent successfully. Response id: 17
+2026-05-30 11:15:55 [INFO] Telemetry collection started
+2026-05-30 11:16:06 [INFO] Telemetry sent successfully. Response id: 18
+2026-05-30 11:16:55 [INFO] Telemetry collection started
+2026-05-30 11:17:00 [INFO] Telemetry sent successfully. Response id: 19
+2026-05-30 11:17:55 [INFO] Telemetry collection started
+2026-05-30 11:18:04 [INFO] Telemetry sent successfully. Response id: 20
+2026-05-30 11:18:55 [INFO] Telemetry collection started
+2026-05-30 11:19:00 [INFO] Telemetry sent successfully. Response id: 21
+2026-05-30 11:19:55 [INFO] Telemetry collection started
+2026-05-30 11:20:01 [ERROR] Send attempt 1 failed: The remote server returned an error: (500) Internal Server Error.
+2026-05-30 11:20:03 [ERROR] Send attempt 2 failed: The remote server returned an error: (500) Internal Server Error.
+2026-05-30 11:20:07 [ERROR] Send attempt 3 failed: The remote server returned an error: (500) Internal Server Error.
+2026-05-30 11:20:55 [INFO] Telemetry collection started
+2026-05-30 11:21:03 [ERROR] Send attempt 1 failed: The remote server returned an error: (500) Internal Server Error.
+2026-05-30 11:21:07 [INFO] Telemetry sent successfully. Response id: 22
+2026-05-30 11:21:57 [INFO] Telemetry collection started
+2026-05-30 11:22:09 [INFO] Telemetry sent successfully. Response id: 23
+2026-05-30 11:22:55 [INFO] Telemetry collection started
+2026-05-30 11:23:00 [INFO] Telemetry sent successfully. Response id: 24
+2026-05-30 11:23:56 [INFO] Telemetry collection started
+2026-05-30 11:24:11 [INFO] Telemetry sent successfully. Response id: 25
+2026-05-30 11:24:55 [INFO] Telemetry collection started
+2026-05-30 11:25:04 [INFO] Telemetry sent successfully. Response id: 26
+2026-05-30 11:25:55 [INFO] Telemetry collection started
+2026-05-30 11:26:01 [INFO] Telemetry sent successfully. Response id: 27
+2026-05-30 11:26:55 [INFO] Telemetry collection started
+2026-05-30 11:27:00 [INFO] Telemetry sent successfully. Response id: 28
+2026-05-30 11:27:58 [INFO] Telemetry collection started
+2026-05-30 11:28:09 [INFO] Telemetry sent successfully. Response id: 29
+2026-05-30 11:28:55 [INFO] Telemetry collection started
+2026-05-30 11:29:01 [INFO] Telemetry sent successfully. Response id: 30
+2026-05-30 11:29:55 [INFO] Telemetry collection started
+2026-05-30 11:30:01 [INFO] Telemetry sent successfully. Response id: 31
+2026-05-30 11:30:55 [INFO] Telemetry collection started
+2026-05-30 11:31:01 [INFO] Telemetry sent successfully. Response id: 32
+2026-05-30 11:31:55 [INFO] Telemetry collection started
+2026-05-30 11:32:01 [INFO] Telemetry sent successfully. Response id: 33
+2026-05-30 11:32:55 [INFO] Telemetry collection started
+2026-05-30 11:33:06 [INFO] Telemetry sent successfully. Response id: 34
+2026-05-30 11:33:56 [INFO] Telemetry collection started
+2026-05-30 11:34:05 [INFO] Telemetry sent successfully. Response id: 35
+2026-05-30 11:34:56 [INFO] Telemetry collection started
+2026-05-30 11:35:08 [INFO] Telemetry sent successfully. Response id: 36
+2026-05-30 11:35:55 [INFO] Telemetry collection started
+2026-05-30 11:36:11 [INFO] Telemetry sent successfully. Response id: 37
+2026-05-30 11:36:55 [INFO] Telemetry collection started
+2026-05-30 11:37:00 [INFO] Telemetry sent successfully. Response id: 38
+2026-05-30 11:37:55 [INFO] Telemetry collection started
+2026-05-30 11:38:01 [INFO] Telemetry sent successfully. Response id: 39
+2026-05-30 11:38:55 [INFO] Telemetry collection started
+2026-05-30 11:39:03 [INFO] Telemetry sent successfully. Response id: 40
+2026-05-30 11:39:55 [INFO] Telemetry collection started
+2026-05-30 11:40:01 [INFO] Telemetry sent successfully. Response id: 41
+2026-05-30 11:40:55 [INFO] Telemetry collection started
+2026-05-30 11:41:00 [INFO] Telemetry sent successfully. Response id: 42
+2026-05-30 11:41:55 [INFO] Telemetry collection started
+2026-05-30 11:42:01 [INFO] Telemetry sent successfully. Response id: 43
+2026-05-30 11:42:55 [INFO] Telemetry collection started
+2026-05-30 11:43:01 [INFO] Telemetry sent successfully. Response id: 44
+2026-05-30 11:43:55 [INFO] Telemetry collection started
+2026-05-30 11:44:02 [INFO] Telemetry sent successfully. Response id: 45
+2026-05-30 11:44:54 [INFO] Telemetry collection started
+2026-05-30 11:45:00 [INFO] Telemetry sent successfully. Response id: 46
+2026-05-30 11:45:54 [INFO] Telemetry collection started
+2026-05-30 11:46:00 [INFO] Telemetry sent successfully. Response id: 47
+2026-05-30 11:46:54 [INFO] Telemetry collection started
+2026-05-30 11:47:00 [INFO] Telemetry sent successfully. Response id: 48
+2026-05-30 11:47:54 [INFO] Telemetry collection started
+2026-05-30 11:48:00 [INFO] Telemetry sent successfully. Response id: 49
+2026-05-30 11:48:54 [INFO] Telemetry collection started
+2026-05-30 11:48:59 [INFO] Telemetry sent successfully. Response id: 50
+2026-05-30 11:49:54 [INFO] Telemetry collection started
+2026-05-30 11:50:00 [INFO] Telemetry sent successfully. Response id: 51
+2026-05-30 11:50:54 [INFO] Telemetry collection started
+2026-05-30 11:51:00 [INFO] Telemetry sent successfully. Response id: 52
+2026-05-30 11:51:54 [INFO] Telemetry collection started
+2026-05-30 11:52:00 [INFO] Telemetry sent successfully. Response id: 53
+2026-05-30 11:52:55 [INFO] Telemetry collection started
+2026-05-30 11:53:01 [INFO] Telemetry sent successfully. Response id: 54
+2026-05-30 11:53:54 [INFO] Telemetry collection started
+2026-05-30 11:53:59 [INFO] Telemetry sent successfully. Response id: 55
+2026-05-30 11:54:54 [INFO] Telemetry collection started
+2026-05-30 11:54:59 [INFO] Telemetry sent successfully. Response id: 56
+2026-05-30 11:55:54 [INFO] Telemetry collection started
+2026-05-30 11:55:59 [INFO] Telemetry sent successfully. Response id: 57
+2026-05-30 11:56:54 [INFO] Telemetry collection started
+2026-05-30 11:57:00 [INFO] Telemetry sent successfully. Response id: 58
+2026-05-30 11:57:54 [INFO] Telemetry collection started
+2026-05-30 11:57:59 [INFO] Telemetry sent successfully. Response id: 59
+2026-05-30 11:58:54 [INFO] Telemetry collection started
+2026-05-30 11:58:59 [INFO] Telemetry sent successfully. Response id: 60
+2026-05-30 11:59:54 [INFO] Telemetry collection started
+2026-05-30 11:59:59 [INFO] Telemetry sent successfully. Response id: 61
+2026-05-30 12:00:54 [INFO] Telemetry collection started
+2026-05-30 12:01:01 [INFO] Telemetry sent successfully. Response id: 62
+2026-05-30 12:01:54 [INFO] Telemetry collection started
+2026-05-30 12:02:00 [INFO] Telemetry sent successfully. Response id: 63
+2026-05-30 12:02:54 [INFO] Telemetry collection started
+2026-05-30 12:03:00 [INFO] Telemetry sent successfully. Response id: 64
+2026-05-30 12:03:54 [INFO] Telemetry collection started
+2026-05-30 12:03:59 [INFO] Telemetry sent successfully. Response id: 65
+2026-05-30 12:04:55 [INFO] Telemetry collection started
+2026-05-30 12:05:00 [INFO] Telemetry sent successfully. Response id: 66
+2026-05-30 12:05:54 [INFO] Telemetry collection started
+2026-05-30 12:06:00 [INFO] Telemetry sent successfully. Response id: 67
+2026-05-30 12:06:54 [INFO] Telemetry collection started
+2026-05-30 12:07:00 [INFO] Telemetry sent successfully. Response id: 68
+2026-05-30 12:07:55 [INFO] Telemetry collection started
+2026-05-30 12:08:00 [INFO] Telemetry sent successfully. Response id: 69
+2026-05-30 12:08:54 [INFO] Telemetry collection started
+2026-05-30 12:09:00 [INFO] Telemetry sent successfully. Response id: 70
+2026-05-30 12:09:54 [INFO] Telemetry collection started
+2026-05-30 12:10:00 [INFO] Telemetry sent successfully. Response id: 71
+2026-05-30 12:10:55 [INFO] Telemetry collection started
+2026-05-30 12:11:00 [INFO] Telemetry sent successfully. Response id: 72
+2026-05-30 12:11:54 [INFO] Telemetry collection started
+2026-05-30 12:11:59 [INFO] Telemetry sent successfully. Response id: 73
+2026-05-30 12:12:55 [INFO] Telemetry collection started
+2026-05-30 12:13:02 [INFO] Telemetry sent successfully. Response id: 74
+2026-05-30 12:13:55 [INFO] Telemetry collection started
+2026-05-30 12:14:01 [INFO] Telemetry sent successfully. Response id: 75
+2026-05-30 12:15:12 [INFO] Telemetry collection started
+2026-05-30 12:15:16 [WARN] GPU utilization metric unavailable: The data in one of the performance counter samples is not valid. View the Status property for each PerformanceCounterSample object to make sure it contains valid data.
+2026-05-30 12:15:31 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:15:43 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:15:57 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:16:54 [INFO] Telemetry collection started
+2026-05-30 12:17:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:17:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:17:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:17:55 [INFO] Telemetry collection started
+2026-05-30 12:18:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:18:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:18:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:18:54 [INFO] Telemetry collection started
+2026-05-30 12:19:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:19:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:19:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:19:54 [INFO] Telemetry collection started
+2026-05-30 12:19:56 [WARN] GPU utilization metric unavailable: The data in one of the performance counter samples is not valid. View the Status property for each PerformanceCounterSample object to make sure it contains valid data.
+2026-05-30 12:20:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:20:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:20:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:20:55 [INFO] Telemetry collection started
+2026-05-30 12:21:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:21:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:21:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:21:55 [INFO] Telemetry collection started
+2026-05-30 12:22:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:22:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:22:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:22:55 [INFO] Telemetry collection started
+2026-05-30 12:23:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:23:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:23:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:23:55 [INFO] Telemetry collection started
+2026-05-30 12:24:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:24:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:24:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:24:55 [INFO] Telemetry collection started
+2026-05-30 12:25:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:25:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:25:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:25:55 [INFO] Telemetry collection started
+2026-05-30 12:26:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:26:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:26:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:26:55 [INFO] Telemetry collection started
+2026-05-30 12:27:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:27:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:27:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:27:55 [INFO] Telemetry collection started
+2026-05-30 12:28:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:28:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:28:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:28:55 [INFO] Telemetry collection started
+2026-05-30 12:29:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:29:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:29:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:29:55 [INFO] Telemetry collection started
+2026-05-30 12:30:14 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:30:26 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:30:40 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:30:55 [INFO] Telemetry collection started
+2026-05-30 12:31:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:31:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:31:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:31:55 [INFO] Telemetry collection started
+2026-05-30 12:32:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:32:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:32:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:32:55 [INFO] Telemetry collection started
+2026-05-30 12:33:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:33:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:33:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:33:55 [INFO] Telemetry collection started
+2026-05-30 12:34:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:34:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:34:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:34:55 [INFO] Telemetry collection started
+2026-05-30 12:35:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:35:24 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:35:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:35:55 [INFO] Telemetry collection started
+2026-05-30 12:36:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:36:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:36:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:36:55 [INFO] Telemetry collection started
+2026-05-30 12:37:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:37:24 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:37:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:37:56 [INFO] Telemetry collection started
+2026-05-30 12:38:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:38:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:38:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:38:55 [INFO] Telemetry collection started
+2026-05-30 12:39:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:39:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:39:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:39:55 [INFO] Telemetry collection started
+2026-05-30 12:40:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:40:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:40:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:40:55 [INFO] Telemetry collection started
+2026-05-30 12:41:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:41:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:41:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:41:55 [INFO] Telemetry collection started
+2026-05-30 12:41:58 [WARN] GPU utilization metric unavailable: The data in one of the performance counter samples is not valid. View the Status property for each PerformanceCounterSample object to make sure it contains valid data.
+2026-05-30 12:42:13 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:42:25 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:42:39 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:42:55 [INFO] Telemetry collection started
+2026-05-30 12:43:13 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:43:26 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:43:40 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:43:55 [INFO] Telemetry collection started
+2026-05-30 12:44:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:44:24 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:44:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:44:55 [INFO] Telemetry collection started
+2026-05-30 12:45:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:45:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:45:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:45:55 [INFO] Telemetry collection started
+2026-05-30 12:46:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:46:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:46:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:46:55 [INFO] Telemetry collection started
+2026-05-30 12:47:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:47:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:47:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:47:55 [INFO] Telemetry collection started
+2026-05-30 12:48:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:48:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:48:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:48:55 [INFO] Telemetry collection started
+2026-05-30 12:49:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:49:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:49:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:49:55 [INFO] Telemetry collection started
+2026-05-30 12:50:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:50:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:50:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:50:55 [INFO] Telemetry collection started
+2026-05-30 12:51:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:51:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:51:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:51:55 [INFO] Telemetry collection started
+2026-05-30 12:52:13 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:52:25 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:52:39 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:52:57 [INFO] Telemetry collection started
+2026-05-30 12:53:18 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:53:30 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:53:44 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:53:55 [INFO] Telemetry collection started
+2026-05-30 12:54:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:54:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:54:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:55:16 [INFO] Telemetry collection started
+2026-05-30 12:56:06 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:56:18 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:56:32 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:56:55 [INFO] Telemetry collection started
+2026-05-30 12:57:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:57:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:57:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:57:55 [INFO] Telemetry collection started
+2026-05-30 12:58:13 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:58:25 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:58:40 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:58:55 [INFO] Telemetry collection started
+2026-05-30 12:59:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 12:59:24 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 12:59:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 12:59:55 [INFO] Telemetry collection started
+2026-05-30 13:00:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:00:24 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:00:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:00:55 [INFO] Telemetry collection started
+2026-05-30 13:01:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:01:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:01:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:01:55 [INFO] Telemetry collection started
+2026-05-30 13:02:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:02:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:02:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:02:55 [INFO] Telemetry collection started
+2026-05-30 13:03:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:03:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:03:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:03:55 [INFO] Telemetry collection started
+2026-05-30 13:04:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:04:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:04:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:04:55 [INFO] Telemetry collection started
+2026-05-30 13:05:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:05:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:05:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:05:55 [INFO] Telemetry collection started
+2026-05-30 13:06:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:06:24 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:06:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:06:55 [INFO] Telemetry collection started
+2026-05-30 13:07:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:07:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:07:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:07:55 [INFO] Telemetry collection started
+2026-05-30 13:08:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:08:24 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:08:38 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:08:55 [INFO] Telemetry collection started
+2026-05-30 13:09:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:09:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:09:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:09:54 [INFO] Telemetry collection started
+2026-05-30 13:10:09 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:10:21 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:10:35 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:10:54 [INFO] Telemetry collection started
+2026-05-30 13:11:09 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:11:21 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:11:35 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:11:54 [INFO] Telemetry collection started
+2026-05-30 13:12:09 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 13:12:21 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 13:12:35 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 13:12:54 [INFO] Telemetry collection started
+2026-05-30 17:53:08 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 17:53:14 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 17:53:28 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 17:57:43 [INFO] Telemetry collection started
+2026-05-30 17:58:00 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 17:58:04 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 17:58:10 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 17:58:56 [INFO] Telemetry collection started
+2026-05-30 17:59:08 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 17:59:12 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 17:59:18 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 17:59:55 [INFO] Telemetry collection started
+2026-05-30 18:00:02 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 18:00:06 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 18:00:12 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 18:00:55 [INFO] Telemetry collection started
+2026-05-30 18:01:02 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 18:01:06 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 18:01:12 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 18:01:55 [INFO] Telemetry collection started
+2026-05-30 18:02:02 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 18:02:06 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 18:02:12 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 18:02:55 [INFO] Telemetry collection started
+2026-05-30 18:03:04 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 18:03:08 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 18:03:15 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 18:03:55 [INFO] Telemetry collection started
+2026-05-30 18:04:02 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 18:04:06 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 18:04:12 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 18:04:55 [INFO] Telemetry collection started
+2026-05-30 18:05:02 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 18:05:06 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 18:05:12 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 18:05:55 [INFO] Telemetry collection started
+2026-05-30 18:06:02 [ERROR] Send attempt 1 failed: Unable to connect to the remote server
+2026-05-30 18:06:06 [ERROR] Send attempt 2 failed: Unable to connect to the remote server
+2026-05-30 18:06:12 [ERROR] Send attempt 3 failed: Unable to connect to the remote server
+2026-05-30 18:06:55 [INFO] Telemetry collection started
+2026-05-30 18:07:00 [INFO] Telemetry sent successfully. Response id: 76
+2026-05-30 18:07:55 [INFO] Telemetry collection started
+2026-05-30 18:08:01 [INFO] Telemetry sent successfully. Response id: 77
+2026-05-30 18:08:55 [INFO] Telemetry collection started
+2026-05-30 18:09:00 [INFO] Telemetry sent successfully. Response id: 78
+2026-05-30 18:09:55 [INFO] Telemetry collection started
+2026-05-30 18:10:00 [INFO] Telemetry sent successfully. Response id: 79
+2026-05-30 18:10:55 [INFO] Telemetry collection started
+2026-05-30 18:11:01 [INFO] Telemetry sent successfully. Response id: 80
+2026-05-30 18:11:55 [INFO] Telemetry collection started
+2026-05-30 18:12:03 [INFO] Telemetry sent successfully. Response id: 81
+2026-05-30 18:12:56 [INFO] Telemetry collection started
+2026-05-30 18:13:02 [INFO] Telemetry sent successfully. Response id: 82
+2026-05-30 18:13:55 [INFO] Telemetry collection started
+2026-05-30 18:14:01 [ERROR] Send attempt 1 failed: The remote server returned an error: (500) Internal Server Error.
+2026-05-30 18:14:04 [ERROR] Send attempt 2 failed: The remote server returned an error: (500) Internal Server Error.
+2026-05-30 18:14:08 [ERROR] Send attempt 3 failed: The remote server returned an error: (500) Internal Server Error.
+2026-05-30 18:14:55 [INFO] Telemetry collection started
+2026-05-30 18:15:01 [INFO] Telemetry sent successfully. Response id: 83
+2026-05-30 18:15:55 [INFO] Telemetry collection started
+2026-05-30 18:16:04 [INFO] Telemetry sent successfully. Response id: 84
+2026-05-30 18:16:55 [INFO] Telemetry collection started
+2026-05-30 18:17:00 [INFO] Telemetry sent successfully. Response id: 85
+2026-05-30 18:17:55 [INFO] Telemetry collection started
+2026-05-30 18:18:01 [INFO] Telemetry sent successfully. Response id: 86
+2026-05-30 18:18:55 [INFO] Telemetry collection started
+2026-05-30 18:19:00 [INFO] Telemetry sent successfully. Response id: 87
+2026-05-30 18:19:55 [INFO] Telemetry collection started
+2026-05-30 18:20:02 [INFO] Telemetry sent successfully. Response id: 88
+2026-05-30 18:20:55 [INFO] Telemetry collection started
+2026-05-30 18:21:00 [INFO] Telemetry sent successfully. Response id: 89
+2026-05-30 18:21:56 [INFO] Telemetry collection started
+2026-05-30 18:22:03 [INFO] Telemetry sent successfully. Response id: 90
+2026-05-30 18:22:55 [INFO] Telemetry collection started
+2026-05-30 18:23:00 [INFO] Telemetry sent successfully. Response id: 91
+2026-05-30 18:23:55 [INFO] Telemetry collection started
+2026-05-30 18:24:00 [INFO] Telemetry sent successfully. Response id: 92
+2026-05-30 18:24:57 [INFO] Telemetry collection started
+2026-05-30 18:25:08 [INFO] Telemetry sent successfully. Response id: 93
+2026-05-30 18:25:55 [INFO] Telemetry collection started
+2026-05-30 18:26:12 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:26:31 [ERROR] Send attempt 2 failed: The request was aborted: The operation has timed out.
+2026-05-30 18:26:48 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:27:02 [INFO] Telemetry collection started
+2026-05-30 18:27:38 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:27:51 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:28:05 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:28:55 [INFO] Telemetry collection started
+2026-05-30 18:29:03 [INFO] Telemetry sent successfully. Response id: 100
+2026-05-30 18:29:55 [INFO] Telemetry collection started
+2026-05-30 18:30:04 [INFO] Telemetry sent successfully. Response id: 101
+2026-05-30 18:30:55 [INFO] Telemetry collection started
+2026-05-30 18:31:00 [INFO] Telemetry sent successfully. Response id: 102
+2026-05-30 18:31:55 [INFO] Telemetry collection started
+2026-05-30 18:32:02 [INFO] Telemetry sent successfully. Response id: 103
+2026-05-30 18:32:56 [INFO] Telemetry collection started
+2026-05-30 18:33:07 [INFO] Telemetry sent successfully. Response id: 104
+2026-05-30 18:33:56 [INFO] Telemetry collection started
+2026-05-30 18:34:13 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:34:25 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:34:39 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:34:55 [INFO] Telemetry collection started
+2026-05-30 18:35:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:35:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:35:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:35:55 [INFO] Telemetry collection started
+2026-05-30 18:36:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 18:36:13 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:36:26 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:36:40 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:36:55 [INFO] Telemetry collection started
+2026-05-30 18:37:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 18:37:13 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:37:25 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:37:40 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:37:55 [INFO] Telemetry collection started
+2026-05-30 18:38:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:38:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:38:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:38:55 [INFO] Telemetry collection started
+2026-05-30 18:39:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:39:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:39:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:39:55 [INFO] Telemetry collection started
+2026-05-30 18:40:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:40:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:40:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:40:55 [INFO] Telemetry collection started
+2026-05-30 18:41:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:41:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:41:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:41:55 [INFO] Telemetry collection started
+2026-05-30 18:42:10 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:42:22 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:42:36 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 18:42:55 [INFO] Telemetry collection started
+2026-05-30 18:43:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 18:43:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 18:43:35 [INFO] Telemetry sent successfully. Response id: 113
+2026-05-30 18:43:55 [INFO] Telemetry collection started
+2026-05-30 18:44:02 [INFO] Telemetry sent successfully. Response id: 117
+2026-05-30 18:44:55 [INFO] Telemetry collection started
+2026-05-30 18:45:04 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 18:45:04 [INFO] Telemetry sent successfully. Response id: 118
+2026-05-30 18:45:55 [INFO] Telemetry collection started
+2026-05-30 18:46:00 [INFO] Telemetry sent successfully. Response id: 119
+2026-05-30 18:46:55 [INFO] Telemetry collection started
+2026-05-30 18:47:04 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 18:47:12 [INFO] Telemetry sent successfully. Response id: 120
+2026-05-30 18:47:55 [INFO] Telemetry collection started
+2026-05-30 18:48:02 [INFO] Telemetry sent successfully. Response id: 121
+2026-05-30 18:48:55 [INFO] Telemetry collection started
+2026-05-30 18:49:01 [INFO] Telemetry sent successfully. Response id: 122
+2026-05-30 18:49:55 [INFO] Telemetry collection started
+2026-05-30 18:50:00 [INFO] Telemetry sent successfully. Response id: 123
+2026-05-30 18:50:55 [INFO] Telemetry collection started
+2026-05-30 18:51:00 [INFO] Telemetry sent successfully. Response id: 124
+2026-05-30 18:51:55 [INFO] Telemetry collection started
+2026-05-30 18:52:02 [INFO] Telemetry sent successfully. Response id: 125
+2026-05-30 18:52:55 [INFO] Telemetry collection started
+2026-05-30 18:53:03 [INFO] Telemetry sent successfully. Response id: 126
+2026-05-30 18:53:55 [INFO] Telemetry collection started
+2026-05-30 18:54:04 [INFO] Telemetry sent successfully. Response id: 127
+2026-05-30 18:54:54 [INFO] Telemetry collection started
+2026-05-30 18:55:00 [INFO] Telemetry sent successfully. Response id: 128
+2026-05-30 18:55:54 [INFO] Telemetry collection started
+2026-05-30 18:56:00 [INFO] Telemetry sent successfully. Response id: 129
+2026-05-30 18:56:54 [INFO] Telemetry collection started
+2026-05-30 18:57:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 18:57:03 [INFO] Telemetry sent successfully. Response id: 130
+2026-05-30 18:57:55 [INFO] Telemetry collection started
+2026-05-30 18:58:01 [INFO] Telemetry sent successfully. Response id: 131
+2026-05-30 18:58:54 [INFO] Telemetry collection started
+2026-05-30 18:59:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 18:59:04 [INFO] Telemetry sent successfully. Response id: 132
+2026-05-30 18:59:54 [INFO] Telemetry collection started
+2026-05-30 19:00:00 [INFO] Telemetry sent successfully. Response id: 133
+2026-05-30 19:00:54 [INFO] Telemetry collection started
+2026-05-30 19:00:59 [INFO] Telemetry sent successfully. Response id: 134
+2026-05-30 19:01:54 [INFO] Telemetry collection started
+2026-05-30 19:01:59 [INFO] Telemetry sent successfully. Response id: 135
+2026-05-30 19:02:54 [INFO] Telemetry collection started
+2026-05-30 19:03:00 [INFO] Telemetry sent successfully. Response id: 136
+2026-05-30 19:03:54 [INFO] Telemetry collection started
+2026-05-30 19:04:00 [INFO] Telemetry sent successfully. Response id: 137
+2026-05-30 19:04:54 [INFO] Telemetry collection started
+2026-05-30 19:05:00 [INFO] Telemetry sent successfully. Response id: 138
+2026-05-30 19:05:54 [INFO] Telemetry collection started
+2026-05-30 19:06:00 [INFO] Telemetry sent successfully. Response id: 139
+2026-05-30 19:06:54 [INFO] Telemetry collection started
+2026-05-30 19:07:00 [INFO] Telemetry sent successfully. Response id: 140
+2026-05-30 19:07:54 [INFO] Telemetry collection started
+2026-05-30 19:08:00 [INFO] Telemetry sent successfully. Response id: 141
+2026-05-30 19:08:54 [INFO] Telemetry collection started
+2026-05-30 19:09:00 [INFO] Telemetry sent successfully. Response id: 142
+2026-05-30 19:09:54 [INFO] Telemetry collection started
+2026-05-30 19:10:00 [INFO] Telemetry sent successfully. Response id: 143
+2026-05-30 19:10:54 [INFO] Telemetry collection started
+2026-05-30 19:11:00 [INFO] Telemetry sent successfully. Response id: 144
+2026-05-30 19:11:55 [INFO] Telemetry collection started
+2026-05-30 19:12:00 [INFO] Telemetry sent successfully. Response id: 145
+2026-05-30 19:12:54 [INFO] Telemetry collection started
+2026-05-30 19:12:59 [INFO] Telemetry sent successfully. Response id: 146
+2026-05-30 19:13:54 [INFO] Telemetry collection started
+2026-05-30 19:14:00 [INFO] Telemetry sent successfully. Response id: 147
+2026-05-30 19:14:54 [INFO] Telemetry collection started
+2026-05-30 19:14:59 [INFO] Telemetry sent successfully. Response id: 148
+2026-05-30 19:15:54 [INFO] Telemetry collection started
+2026-05-30 19:15:59 [INFO] Telemetry sent successfully. Response id: 149
+2026-05-30 19:16:54 [INFO] Telemetry collection started
+2026-05-30 19:16:59 [INFO] Telemetry sent successfully. Response id: 150
+2026-05-30 19:17:54 [INFO] Telemetry collection started
+2026-05-30 19:17:59 [INFO] Telemetry sent successfully. Response id: 151
+2026-05-30 19:18:54 [INFO] Telemetry collection started
+2026-05-30 19:19:00 [INFO] Telemetry sent successfully. Response id: 152
+2026-05-30 19:19:56 [INFO] Telemetry collection started
+2026-05-30 19:20:05 [INFO] Telemetry sent successfully. Response id: 153
+2026-05-30 19:20:54 [INFO] Telemetry collection started
+2026-05-30 19:21:00 [INFO] Telemetry sent successfully. Response id: 154
+2026-05-30 19:21:54 [INFO] Telemetry collection started
+2026-05-30 19:22:00 [INFO] Telemetry sent successfully. Response id: 155
+2026-05-30 19:22:54 [INFO] Telemetry collection started
+2026-05-30 19:23:00 [INFO] Telemetry sent successfully. Response id: 156
+2026-05-30 19:23:54 [INFO] Telemetry collection started
+2026-05-30 19:24:00 [INFO] Telemetry sent successfully. Response id: 157
+2026-05-30 19:24:54 [INFO] Telemetry collection started
+2026-05-30 19:25:00 [INFO] Telemetry sent successfully. Response id: 158
+2026-05-30 19:25:54 [INFO] Telemetry collection started
+2026-05-30 19:26:00 [INFO] Telemetry sent successfully. Response id: 159
+2026-05-30 19:26:54 [INFO] Telemetry collection started
+2026-05-30 19:26:59 [INFO] Telemetry sent successfully. Response id: 160
+2026-05-30 19:27:54 [INFO] Telemetry collection started
+2026-05-30 19:28:00 [INFO] Telemetry sent successfully. Response id: 161
+2026-05-30 19:28:54 [INFO] Telemetry collection started
+2026-05-30 19:29:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 19:29:04 [INFO] Telemetry sent successfully. Response id: 162
+2026-05-30 19:29:54 [INFO] Telemetry collection started
+2026-05-30 19:30:00 [INFO] Telemetry sent successfully. Response id: 163
+2026-05-30 19:30:54 [INFO] Telemetry collection started
+2026-05-30 19:30:59 [INFO] Telemetry sent successfully. Response id: 164
+2026-05-30 19:31:54 [INFO] Telemetry collection started
+2026-05-30 19:32:00 [INFO] Telemetry sent successfully. Response id: 165
+2026-05-30 19:32:54 [INFO] Telemetry collection started
+2026-05-30 19:33:00 [INFO] Telemetry sent successfully. Response id: 166
+2026-05-30 19:33:54 [INFO] Telemetry collection started
+2026-05-30 19:34:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 19:34:04 [INFO] Telemetry sent successfully. Response id: 167
+2026-05-30 19:34:54 [INFO] Telemetry collection started
+2026-05-30 19:35:00 [INFO] Telemetry sent successfully. Response id: 168
+2026-05-30 19:35:54 [INFO] Telemetry collection started
+2026-05-30 19:36:00 [INFO] Telemetry sent successfully. Response id: 169
+2026-05-30 19:36:54 [INFO] Telemetry collection started
+2026-05-30 19:36:59 [INFO] Telemetry sent successfully. Response id: 170
+2026-05-30 19:37:54 [INFO] Telemetry collection started
+2026-05-30 19:38:00 [INFO] Telemetry sent successfully. Response id: 171
+2026-05-30 19:38:54 [INFO] Telemetry collection started
+2026-05-30 19:39:00 [INFO] Telemetry sent successfully. Response id: 172
+2026-05-30 19:39:54 [INFO] Telemetry collection started
+2026-05-30 19:40:00 [INFO] Telemetry sent successfully. Response id: 173
+2026-05-30 19:40:54 [INFO] Telemetry collection started
+2026-05-30 19:41:00 [INFO] Telemetry sent successfully. Response id: 174
+2026-05-30 19:41:54 [INFO] Telemetry collection started
+2026-05-30 19:41:59 [INFO] Telemetry sent successfully. Response id: 175
+2026-05-30 19:42:54 [INFO] Telemetry collection started
+2026-05-30 19:43:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 19:43:04 [INFO] Telemetry sent successfully. Response id: 176
+2026-05-30 19:43:55 [INFO] Telemetry collection started
+2026-05-30 19:44:04 [INFO] Telemetry sent successfully. Response id: 177
+2026-05-30 19:44:57 [INFO] Telemetry collection started
+2026-05-30 19:45:11 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 19:45:12 [INFO] Telemetry sent successfully. Response id: 178
+2026-05-30 19:45:54 [INFO] Telemetry collection started
+2026-05-30 19:46:01 [INFO] Telemetry sent successfully. Response id: 179
+2026-05-30 19:46:55 [INFO] Telemetry collection started
+2026-05-30 19:47:00 [INFO] Telemetry sent successfully. Response id: 180
+2026-05-30 19:47:54 [INFO] Telemetry collection started
+2026-05-30 19:48:03 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 19:48:04 [INFO] Telemetry sent successfully. Response id: 181
+2026-05-30 19:48:54 [INFO] Telemetry collection started
+2026-05-30 19:49:01 [INFO] Telemetry sent successfully. Response id: 182
+2026-05-30 19:49:54 [INFO] Telemetry collection started
+2026-05-30 19:50:00 [INFO] Telemetry sent successfully. Response id: 183
+2026-05-30 19:50:54 [INFO] Telemetry collection started
+2026-05-30 19:51:00 [INFO] Telemetry sent successfully. Response id: 184
+2026-05-30 19:51:55 [INFO] Telemetry collection started
+2026-05-30 19:52:02 [INFO] Telemetry sent successfully. Response id: 185
+2026-05-30 19:52:55 [INFO] Telemetry collection started
+2026-05-30 19:53:01 [INFO] Telemetry sent successfully. Response id: 186
+2026-05-30 19:53:55 [INFO] Telemetry collection started
+2026-05-30 19:54:03 [INFO] Telemetry sent successfully. Response id: 187
+2026-05-30 19:54:56 [INFO] Telemetry collection started
+2026-05-30 19:55:05 [INFO] Telemetry sent successfully. Response id: 188
+2026-05-30 19:55:55 [INFO] Telemetry collection started
+2026-05-30 19:56:03 [INFO] Telemetry sent successfully. Response id: 189
+2026-05-30 19:56:56 [INFO] Telemetry collection started
+2026-05-30 19:57:08 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 19:57:10 [INFO] Telemetry sent successfully. Response id: 190
+2026-05-30 19:57:55 [INFO] Telemetry collection started
+2026-05-30 19:58:01 [INFO] Telemetry sent successfully. Response id: 191
+2026-05-30 19:58:55 [INFO] Telemetry collection started
+2026-05-30 19:59:03 [INFO] Telemetry sent successfully. Response id: 192
+2026-05-30 19:59:55 [INFO] Telemetry collection started
+2026-05-30 20:00:03 [INFO] Telemetry sent successfully. Response id: 193
+2026-05-30 20:00:55 [INFO] Telemetry collection started
+2026-05-30 20:01:00 [INFO] Telemetry sent successfully. Response id: 194
+2026-05-30 20:01:55 [INFO] Telemetry collection started
+2026-05-30 20:02:01 [INFO] Telemetry sent successfully. Response id: 195
+2026-05-30 20:02:55 [INFO] Telemetry collection started
+2026-05-30 20:03:01 [INFO] Telemetry sent successfully. Response id: 196
+2026-05-30 20:03:55 [INFO] Telemetry collection started
+2026-05-30 20:04:04 [INFO] Telemetry sent successfully. Response id: 197
+2026-05-30 20:04:55 [INFO] Telemetry collection started
+2026-05-30 20:05:01 [INFO] Telemetry sent successfully. Response id: 198
+2026-05-30 20:05:57 [INFO] Telemetry collection started
+2026-05-30 20:06:03 [INFO] Telemetry sent successfully. Response id: 199
+2026-05-30 20:06:55 [INFO] Telemetry collection started
+2026-05-30 20:07:01 [INFO] Telemetry sent successfully. Response id: 200
+2026-05-30 20:07:55 [INFO] Telemetry collection started
+2026-05-30 20:08:01 [INFO] Telemetry sent successfully. Response id: 201
+2026-05-30 20:08:55 [INFO] Telemetry collection started
+2026-05-30 20:09:04 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 20:09:04 [INFO] Telemetry sent successfully. Response id: 202
+2026-05-30 20:09:55 [INFO] Telemetry collection started
+2026-05-30 20:10:01 [INFO] Telemetry sent successfully. Response id: 203
+2026-05-30 20:11:03 [INFO] Telemetry collection started
+2026-05-30 20:11:37 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 20:11:49 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 20:12:03 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 20:12:55 [INFO] Telemetry collection started
+2026-05-30 20:13:11 [ERROR] Send attempt 1 failed: The operation has timed out
+2026-05-30 20:13:23 [ERROR] Send attempt 2 failed: The operation has timed out
+2026-05-30 20:13:37 [ERROR] Send attempt 3 failed: The operation has timed out
+2026-05-30 20:13:56 [INFO] Telemetry collection started
+2026-05-30 20:14:07 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 20:14:08 [INFO] Telemetry sent successfully. Response id: 210
+2026-05-30 20:14:55 [INFO] Telemetry collection started
+2026-05-30 20:15:00 [INFO] Telemetry sent successfully. Response id: 211
+2026-05-30 20:15:55 [INFO] Telemetry collection started
+2026-05-30 20:16:00 [INFO] Telemetry sent successfully. Response id: 212
+2026-05-30 20:16:55 [INFO] Telemetry collection started
+2026-05-30 20:17:00 [INFO] Telemetry sent successfully. Response id: 213
+2026-05-30 20:17:55 [INFO] Telemetry collection started
+2026-05-30 20:18:01 [INFO] Telemetry sent successfully. Response id: 214
+2026-05-30 20:18:55 [INFO] Telemetry collection started
+2026-05-30 20:19:04 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 20:19:04 [INFO] Telemetry sent successfully. Response id: 215
+2026-05-30 20:19:55 [INFO] Telemetry collection started
+2026-05-30 20:20:00 [INFO] Telemetry sent successfully. Response id: 216
+2026-05-30 20:20:56 [INFO] Telemetry collection started
+2026-05-30 20:21:02 [INFO] Telemetry sent successfully. Response id: 217
+2026-05-30 20:21:55 [INFO] Telemetry collection started
+2026-05-30 20:22:14 [INFO] Telemetry sent successfully. Response id: 218
+2026-05-30 20:22:55 [INFO] Telemetry collection started
+2026-05-30 20:23:01 [INFO] Telemetry sent successfully. Response id: 219
+2026-05-30 20:23:55 [INFO] Telemetry collection started
+2026-05-30 20:24:04 [INFO] Telemetry sent successfully. Response id: 220
+2026-05-30 20:24:55 [INFO] Telemetry collection started
+2026-05-30 20:25:02 [INFO] Telemetry sent successfully. Response id: 221
+2026-05-30 20:25:55 [INFO] Telemetry collection started
+2026-05-30 20:26:02 [INFO] Telemetry sent successfully. Response id: 222
+2026-05-30 20:26:55 [INFO] Telemetry collection started
+2026-05-30 20:27:02 [INFO] Telemetry sent successfully. Response id: 223
+2026-05-30 20:27:56 [INFO] Telemetry collection started
+2026-05-30 20:28:02 [INFO] Telemetry sent successfully. Response id: 224
+2026-05-30 20:28:55 [INFO] Telemetry collection started
+2026-05-30 20:29:00 [INFO] Telemetry sent successfully. Response id: 225
+2026-05-30 20:29:55 [INFO] Telemetry collection started
+2026-05-30 20:30:02 [INFO] Telemetry sent successfully. Response id: 226
+2026-05-30 20:30:57 [INFO] Telemetry collection started
+2026-05-30 20:31:19 [INFO] Telemetry sent successfully. Response id: 227
+2026-05-30 20:31:55 [INFO] Telemetry collection started
+2026-05-30 20:32:02 [INFO] Telemetry sent successfully. Response id: 228
+2026-05-30 20:32:57 [INFO] Telemetry collection started
+2026-05-30 20:33:03 [INFO] Telemetry sent successfully. Response id: 229
+2026-05-30 20:33:55 [INFO] Telemetry collection started
+2026-05-30 20:34:06 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 20:34:07 [INFO] Telemetry sent successfully. Response id: 230
+2026-05-30 20:34:55 [INFO] Telemetry collection started
+2026-05-30 20:35:02 [INFO] Telemetry sent successfully. Response id: 231
+2026-05-30 20:35:55 [INFO] Telemetry collection started
+2026-05-30 20:36:00 [INFO] Telemetry sent successfully. Response id: 232
+2026-05-30 20:36:55 [INFO] Telemetry collection started
+2026-05-30 20:37:01 [INFO] Telemetry sent successfully. Response id: 233
+2026-05-30 20:37:55 [INFO] Telemetry collection started
+2026-05-30 20:38:01 [INFO] Telemetry sent successfully. Response id: 234
+2026-05-30 20:38:55 [INFO] Telemetry collection started
+2026-05-30 20:39:00 [INFO] Telemetry sent successfully. Response id: 235
+2026-05-30 20:39:55 [INFO] Telemetry collection started
+2026-05-30 20:40:00 [INFO] Telemetry sent successfully. Response id: 236
+2026-05-30 20:40:55 [INFO] Telemetry collection started
+2026-05-30 20:41:00 [INFO] Telemetry sent successfully. Response id: 237
+2026-05-30 20:41:55 [INFO] Telemetry collection started
+2026-05-30 20:42:00 [INFO] Telemetry sent successfully. Response id: 238
+2026-05-30 20:43:00 [INFO] Telemetry collection started
+2026-05-30 20:43:46 [INFO] Telemetry sent successfully. Response id: 239
+2026-05-30 20:43:58 [INFO] Telemetry collection started
+2026-05-30 20:44:14 [INFO] Telemetry sent successfully. Response id: 240
+2026-05-30 20:44:55 [INFO] Telemetry collection started
+2026-05-30 20:45:13 [INFO] Telemetry sent successfully. Response id: 241
+2026-05-30 20:45:55 [INFO] Telemetry collection started
+2026-05-30 20:46:09 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 20:46:11 [INFO] Telemetry sent successfully. Response id: 242
+2026-05-30 22:08:53 [INFO] Telemetry collection started
+2026-05-30 22:09:07 [INFO] Telemetry sent successfully. Response id: 243
+2026-05-30 22:09:55 [INFO] Telemetry collection started
+2026-05-30 22:10:04 [INFO] Telemetry sent successfully. Response id: 244
+2026-05-30 22:10:55 [INFO] Telemetry collection started
+2026-05-30 22:11:00 [INFO] Telemetry sent successfully. Response id: 245
+2026-05-30 22:11:55 [INFO] Telemetry collection started
+2026-05-30 22:12:02 [INFO] Telemetry sent successfully. Response id: 246
+2026-05-30 22:12:57 [INFO] Telemetry collection started
+2026-05-30 22:13:03 [INFO] Telemetry sent successfully. Response id: 248
+2026-05-30 22:13:55 [INFO] Telemetry collection started
+2026-05-30 22:14:00 [INFO] Telemetry sent successfully. Response id: 250
+2026-05-30 22:14:54 [INFO] Telemetry collection started
+2026-05-30 22:15:00 [INFO] Telemetry sent successfully. Response id: 252
+2026-05-30 22:15:55 [INFO] Telemetry collection started
+2026-05-30 22:16:00 [INFO] Telemetry sent successfully. Response id: 253
+2026-05-30 22:16:55 [INFO] Telemetry collection started
+2026-05-30 22:17:00 [INFO] Telemetry sent successfully. Response id: 255
+2026-05-30 22:17:55 [INFO] Telemetry collection started
+2026-05-30 22:18:01 [INFO] Telemetry sent successfully. Response id: 256
+2026-05-30 22:18:55 [INFO] Telemetry collection started
+2026-05-30 22:19:00 [INFO] Telemetry sent successfully. Response id: 257
+2026-05-30 22:19:55 [INFO] Telemetry collection started
+2026-05-30 22:20:02 [INFO] Telemetry sent successfully. Response id: 258
+2026-05-30 22:20:55 [INFO] Telemetry collection started
+2026-05-30 22:21:01 [INFO] Telemetry sent successfully. Response id: 259
+2026-05-30 22:21:54 [INFO] Telemetry collection started
+2026-05-30 22:22:00 [INFO] Telemetry sent successfully. Response id: 260
+2026-05-30 22:22:58 [INFO] Telemetry collection started
+2026-05-30 22:23:04 [INFO] Telemetry sent successfully. Response id: 261
+2026-05-30 22:23:56 [INFO] Telemetry collection started
+2026-05-30 22:24:05 [WARN] Latency metric failed: Testing connection to computer '8.8.8.8' failed: Error due to lack of resources
+2026-05-30 22:24:05 [INFO] Telemetry sent successfully. Response id: 262
+2026-05-30 22:24:55 [INFO] Telemetry collection started
+2026-05-30 22:25:00 [INFO] Telemetry sent successfully. Response id: 263
+2026-05-30 22:25:55 [INFO] Telemetry collection started
+2026-05-30 22:26:00 [INFO] Telemetry sent successfully. Response id: 264
+2026-05-30 22:26:55 [INFO] Telemetry collection started
+2026-05-30 22:27:01 [INFO] Telemetry sent successfully. Response id: 265
+2026-05-30 22:27:02 [INFO] Telemetry collection started
+2026-05-30 22:27:08 [INFO] Telemetry sent successfully. Response id: 266
+2026-05-30 22:27:55 [INFO] Telemetry collection started
+2026-05-30 22:28:00 [INFO] Telemetry sent successfully. Response id: 267
+2026-05-30 22:28:55 [INFO] Telemetry collection started
+2026-05-30 22:29:01 [INFO] Telemetry sent successfully. Response id: 268
+2026-05-30 22:29:55 [INFO] Telemetry collection started
+2026-05-30 22:30:01 [INFO] Telemetry sent successfully. Response id: 269

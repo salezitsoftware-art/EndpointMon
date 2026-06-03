@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/pages/ai.tsx","./src/pages/alerts.tsx","./src/pages/dashboard.tsx","./src/pages/dashboardcontent.tsx","./src/pages/fleetai.tsx","./src/pages/machinedetail.tsx","./src/pages/machines.tsx"],"version":"5.9.3"}

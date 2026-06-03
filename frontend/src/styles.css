@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  font-family: "Space Grotesk", sans-serif;
+  color: #101418;
+  background:
+    radial-gradient(circle at 10% 20%, rgba(15, 118, 110, 0.18), transparent 36%),
+    radial-gradient(circle at 90% 10%, rgba(249, 115, 22, 0.16), transparent 42%),
+    #eef5f2;
+}
+
+.panel {
+  @apply rounded-2xl bg-white/90 p-4 shadow-panel backdrop-blur-sm;
+}
